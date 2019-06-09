@@ -1,0 +1,2 @@
+class OldTokenNotFoundException(Exception):
+    pass
